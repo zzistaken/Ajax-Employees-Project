@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Ahmet Yılmaz",
+    "department": "Software Development",
+    "salary": 85000
+  },
+  {
+    "name": "Mehmet Demir",
+    "department": "Quality Assurance",
+    "salary": 78000
+  },
+  {
+    "name": "Ayşe Kaya",
+    "department": "Project Management",
+    "salary": 92000
+  },
+  {
+    "name": "Fatma Çelik",
+    "department": "DevOps",
+    "salary": 88000
+  },
+  {
+    "name": "Emre Aydın",
+    "department": "UI/UX Design",
+    "salary": 76000
+  },
+  {
+    "name": "Zeynep Öztürk",
+    "department": "Human Resources",
+    "salary": 65000
+  },
+  {
+    "name": "Burak Şahin",
+    "department": "Technical Support",
+    "salary": 62000
+  },
+  {
+    "name": "Elif Aksoy",
+    "department": "Software Development",
+    "salary": 89000
+  },
+  {
+    "name": "Mert Koç",
+    "department": "Data Science",
+    "salary": 98000
+  },
+  {
+    "name": "Deniz Güneş",
+    "department": "Marketing",
+    "salary": 71000
+  }
+]
